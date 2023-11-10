@@ -1,6 +1,4 @@
-
-
-### Pagal žemiau pateiktus nurodymus sudarykite klasę geografinių koordinačių saugojimui ir atstumų tarp jų skaičiavimui. Papildomų klasės laukų ir metodų aprašyti negalima, tačiau įvertinkite kurie iš nurodytų klasės narių turi būti statiniai (statiniais nariais gali būti tik tie, kuriems tai yra būtina).
+## Pagal žemiau pateiktus nurodymus sudarykite klasę geografinių koordinačių saugojimui ir atstumų tarp jų skaičiavimui. Papildomų klasės laukų ir metodų aprašyti negalima, tačiau įvertinkite kurie iš nurodytų klasės narių turi būti statiniai (statiniais nariais gali būti tik tie, kuriems tai yra būtina).
 
 Metode main nurodykite žemiau pateiktą kodą. Gautą rezultatą palyginkite su žemiau pateiktu laukiamu rezultatu atsižvelgdami į tai, kad programa generuos skirtingas koordinates.
 
