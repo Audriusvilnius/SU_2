@@ -6,8 +6,8 @@ public class GeoLocation {
 
     double lat_Rand = (double) random.nextInt(-90000000, 90000001) / 1000000;
     double lon_Rand = (double) random.nextInt(-90000000, 90000001) / 1000000;
-    double lan_Plus_Rand = random.nextDouble(-.1, .1);
-    double lon_Plus_Rand = random.nextDouble(-.1, .1);
+    double lan_Plus_Rand = random.nextDouble(-.1, .11);
+    double lon_Plus_Rand = random.nextDouble(-.1, .11);
     private static int numLocations = 0;
     private static double distance;
     private final double[] location = new double[2];
