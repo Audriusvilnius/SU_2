@@ -41,9 +41,9 @@ System.out.println("From Vilnius to random neighbour: " + GeoLocation.distance(v
 Laukiamas rezultatas (pirmo ir trečio taško koordinatės skirsis dėl atsitiktinumo, bet pirmas atstumas visada turi būti 92.6, antras atstumas − labai didelis, o trečias atstumas − labai mažas):
 
 * `[-10.96451, 52.679755]`
-* [54.683333, 25.283333]
-* [54.770529, 25.254458]
-* Number of locations: 4
-* From Vilnius to Kaunas: 92.6
-* From Vilnius to random location: 7738.3
-* From Vilnius to random neighbour: 9.8
+* `[54.683333, 25.283333]`
+* `[54.770529, 25.254458]`
+* `Number of locations: 4`
+* `From Vilnius to Kaunas: 92.6`
+* `From Vilnius to random location: 7738.3`
+* `From Vilnius to random neighbour: 9.8`
