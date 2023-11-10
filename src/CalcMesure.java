@@ -1,5 +1,3 @@
-package uzduotis_nd_2;
-
 public class CalcMesure {
 
     public static void main(String[] args) {
